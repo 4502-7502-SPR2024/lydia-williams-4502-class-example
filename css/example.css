@@ -42,9 +42,7 @@ h1 {
 	display: flex;
 	justify-content: center;
 	text-transform:none;
-	font-family: "Roboto", serif;
-	font-weight: 800px;
-	margin: auto;
+	font-family: ;
 }
 
 p {
@@ -54,6 +52,11 @@ p {
 	font-family: ;
 }
 
+h1 {
+	font-family: "Roboto", serif;
+	font-weight: 800px;
+	margin: auto;
+}
 
 p {
 	font-family: "Merriweather", serif;
