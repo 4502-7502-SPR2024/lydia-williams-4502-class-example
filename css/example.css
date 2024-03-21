@@ -77,18 +77,10 @@ img {
 	max-width: 300px;
 }
 
-.mailing-link img {
-	display: flex;
-	border-radius: 5rem;
-	max-width: 400px;
-	justify-content: center;
 
 .lead-img {
 	display: flex;
 	justify-content: center;
-}
-
-.lead-img {
 	margin: 0 auto;
 	object-fit: contain;
 	max-width: 100%;
