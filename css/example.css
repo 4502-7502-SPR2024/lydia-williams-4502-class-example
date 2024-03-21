@@ -1,0 +1,52 @@
+nav {
+
+	display: flex;
+	justify-content: center;
+	text-transform: uppercase;
+	font-family: ;
+}
+
+h1 {
+	display: flex;
+	justify-content: center;
+	text-transform:none;
+	font-family: ;
+}
+
+p {
+	display: flex;
+	justify-content: center;
+	text-transform: none;
+	font-family: ;
+}
+
+h1 {
+	font-family: "Roboto", serif;
+}
+
+p {
+	font-family: "Merriweather", serif;
+}
+
+nav {
+	font-family: "Pontano Sans" sans-serif;
+}
+
+img {
+	max-width: 300px;
+}
+
+.lead-img {
+	display: flex;
+	justify-content: center;
+}
+
+.lead-img {
+	margin: 0 auto;
+	object-fit: contain;
+	max-width: 100%;
+}
+
+body {
+	background-color: lightpink;
+}
