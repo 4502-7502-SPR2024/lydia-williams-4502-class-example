@@ -1,0 +1,42 @@
+.skip-link {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  border: 0;
+}
+
+.skip-link:focus{
+  width: unset;
+  height: unset;
+  position: relative;
+  padding: unset;
+  margin: unset;
+  font-size: 2rem;
+}
+
+.anchor-nav {
+	display: flex;
+	position: sticky;
+	top: 10px;
+	justify-content: space-evenly;
+	width: 80%;
+	background-color: blue-gray;
+	margin: auto;
+	padding: 0.5rem;
+	color: #6699CC;
+	text-transform: uppercase;
+	border-radius: 1rem;
+
+}
+
+.anchor-nav a {
+	color:#6699CC;
+}
+
+body {
+	background-color: #B0C4DE(229, 172, 103, 0.5);
+	overflow: scroll; /* Show scrollbars */
+}
